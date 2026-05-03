@@ -42,20 +42,6 @@
 
 ---
 
-<div align="center">
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/cat9999sss/cat9999sss/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cat9999sss/cat9999sss/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution" src="https://raw.githubusercontent.com/cat9999sss/cat9999sss/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-
-</div>
-
----
-
 ```
   MAGI SYSTEM  //  CONSENSUS PROTOCOL
 
